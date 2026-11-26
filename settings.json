@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Gru-po-Uwov.aternos.me:58860",
-    "port": 44019,
+    "ip": "Gru-po-Uwov.aternos.me",
+    "port": 58860,
     "version": "",
     "try-creative": false
   },
